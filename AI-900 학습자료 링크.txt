@@ -1,0 +1,80 @@
+[ Micrsoft AI-900 학습 자료 링크 ]
+
+- Course : Microsoft Azure AI Fundamentals
+https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification
+--------------------------------------------------------------------------------------------------------
+
+[1] Microsoft Azure AI 기본 사항: AI 개요
+https://learn.microsoft.com/ko-kr/training/paths/get-started-with-artificial-intelligence-on-azure/
+
+(1) 기본 AI 개념
+https://learn.microsoft.com/ko-kr/training/modules/get-started-ai-fundamentals/
+
+(2) 기계 학습의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/fundamentals-machine-learning/
+
+(3) Azure AI 서비스의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/fundamentals-azure-ai-services/
+
+--------------------------------------------------------------------------------------------------------
+
+[2] Microsoft Azure AI 기본 사항: Computer Vision
+https://learn.microsoft.com/ko-kr/training/paths/explore-computer-vision-microsoft-azure/
+
+(1) Computer Vision의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/analyze-images-computer-vision/
+
+(2) 얼굴 인식의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/detect-analyze-faces/
+
+(3) 광학 인식의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/read-text-computer-vision/
+
+--------------------------------------------------------------------------------------------------------
+
+[3] Microsoft Azure AI 기본 사항: 자연어 처리
+https://learn.microsoft.com/ko-kr/training/paths/explore-natural-language-processing/
+
+(1) 언어 서비스를 사용하는 텍스트 분석의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/analyze-text-with-text-analytics-service/
+
+(2) 언어 서비스를 사용하여 질문 답변의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/
+
+(3) 대화 언어 이해의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/create-language-model-with-language-understanding/
+
+(4) Azure AI 음성의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/recognize-synthesize-speech/
+
+(5) 언어 번역의 기본
+https://learn.microsoft.com/ko-kr/training/modules/translate-text-with-translation-service/
+
+--------------------------------------------------------------------------------------------------------
+
+[4] Microsoft Azure AI 기본 사항: 문서 인텔리전스 및 지식 마이닝
+https://learn.microsoft.com/ko-kr/training/paths/document-intelligence-knowledge-mining/
+
+
+(1) Azure AI 문서 인텔리전스의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/analyze-receipts-form-recognizer/
+
+(2) 지식 마이닝 및 Azure AI 검색의 기본 사항
+https://learn.microsoft.com/ko-kr/training/modules/intro-to-azure-search/
+
+--------------------------------------------------------------------------------------------------------
+
+[5] Microsoft Azure AI 기본 사항: 생성 AI
+https://learn.microsoft.com/ko-kr/training/paths/introduction-generative-ai/
+
+(1) 생성형 AI의 기초
+https://learn.microsoft.com/ko-kr/training/modules/fundamentals-generative-ai/
+
+(2) Azure AI 스튜디오 소개
+https://learn.microsoft.com/ko-kr/training/modules/introduction-to-azure-ai-studio/
+
+(3) 책임 있는 생성형 AI
+https://learn.microsoft.com/ko-kr/training/modules/responsible-ai-studio/
+
+--------------------------------------------------------------------------------------------------------
+
