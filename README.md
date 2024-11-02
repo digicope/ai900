@@ -2,15 +2,19 @@
 ##  Microsoft AI-900 자격 과정 (2024.11.04~11.06, 14Hr)
 <br>
 
-## git 주소 :    https://github.com/digicope/ai900
+## 강사 git 주소 :    https://github.com/digicope/ai900
 <br>
-
 
 #### git 사용기간 : 2024.11.04~11.06 (2024.11.06  이후에는 접속 불가)
 
 
 #### 강사: 고병화
 #### E-mail : digicope@aicore.co.kr
+
+### [ Micrsoft AI-900 학습 자료 링크 ]
+<br>
+- Course : Microsoft Azure AI Fundamentals <br>
+https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification
 
 <br>
 <br>
