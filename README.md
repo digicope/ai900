@@ -10,10 +10,14 @@
 
 #### 강사: 고병화
 #### E-mail : digicope@aicore.co.kr
+<br>
+<br>
 
 ### [ Micrsoft AI-900 학습 자료 링크 ]
 <br>
-- Course : Microsoft Azure AI Fundamentals <br>
+
+####  Course : Microsoft Azure AI Fundamentals 
+<br>
 https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification
 
 <br>
